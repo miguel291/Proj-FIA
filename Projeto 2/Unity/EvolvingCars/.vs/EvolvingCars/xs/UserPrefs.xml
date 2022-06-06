@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EvolvingCars/TP2/CarFitness.cs">
+    <Files>
+      <File FileName="Assets/EvolvingCars/TP2/CarFitness.cs" Line="1" Column="1" />
+      <File FileName="Assets/EvolvingCars/TP2/GeneticAlgorithmConfigurations.cs" Line="16" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6dfcaa43-071b-4bb2-a595-1f3d13bac681" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/miguelpedroso/Desktop/FIA/Projeto 2/Trabalho 2/EvolvingCars/Assets/Editor/ExportPackage.cs" relfile="Assets/Editor/ExportPackage.cs" line="20" column="1" />
+      <Breakpoint file="/Users/miguelpedroso/Desktop/FIA/Projeto 2/Trabalho 2/EvolvingCars/Assets/EvolvingCars/Car/Scripts/CarController.cs" relfile="Assets/EvolvingCars/Car/Scripts/CarController.cs" line="49" column="1" />
+      <Breakpoint file="/Users/miguelpedroso/Desktop/FIA/Projeto 2/Trabalho 2/EvolvingCars/Assets/EvolvingCars/Commons/EvaluateBest.cs" relfile="Assets/EvolvingCars/Commons/EvaluateBest.cs" line="140" column="1" />
+      <Breakpoint file="/Users/miguelpedroso/Desktop/FIA/Projeto 2/Trabalho 2/EvolvingCars/Assets/EvolvingCars/Commons/EvaluateBest.cs" relfile="Assets/EvolvingCars/Commons/EvaluateBest.cs" line="82" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
