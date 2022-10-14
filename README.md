@@ -1,3 +1,3 @@
 # Proj-FIA
 
-Project for the Fundamentals of Artificial Intelligence subject of the Informatics engineering course @University of Coimbra
+Project for the Fundamentals of Artificial Intelligence course @University of Coimbra
